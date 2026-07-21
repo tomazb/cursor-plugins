@@ -1,0 +1,32 @@
+{
+  "name": "cursor-rubber-duck",
+  "displayName": "Rubber Duck",
+  "version": "1.0.0",
+  "description": "Constructive second-opinion critic for plans, code, and tests on a contrasting model — Blocking / Non-blocking / Suggestions, read-only, with /rubber-duck.",
+  "author": {
+    "name": "Tomazb",
+    "email": "tomaz@sama-navitas.si"
+  },
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "rubber-duck",
+    "second-opinion",
+    "critique",
+    "code-review",
+    "planning",
+    "blind-spots",
+    "subagents"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "review",
+    "quality",
+    "planning",
+    "automation"
+  ],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "rules": "./rules/",
+  "commands": "./commands/"
+}

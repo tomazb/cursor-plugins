@@ -1,0 +1,17 @@
+{
+  "name": "tomazb-cursor-plugins",
+  "owner": {
+    "name": "Tomazb",
+    "email": "tomaz@sama-navitas.si"
+  },
+  "metadata": {
+    "description": "My own Cursor plugin marketplace: developer tools, framework rules, MCP integrations, and agent skills"
+  },
+  "plugins": [
+    {
+      "name": "cursor-rubber-duck",
+      "source": "cursor-rubber-duck",
+      "description": "Constructive second-opinion critic for plans, code, and tests on a contrasting model — Blocking / Non-blocking / Suggestions, read-only, with /rubber-duck."
+    }
+  ]
+}
